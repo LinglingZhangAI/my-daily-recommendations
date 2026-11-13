@@ -1,0 +1,21 @@
+assets/index-B5_k9Y-_.js
+  s_5019675c1471a1::t_478b77b9f321bc 9,25,33-34,37-38,40,95,190-191,202
+index.html
+  s_5019675c1471a1::t_ea2f415659306b 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9b81a6b57874586a47bebf86986f834c827b7140",
+  "prompts": {},
+  "sessions": {
+    "s_5019675c1471a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d725-211f-7730-9bca-babab95b5969",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "张玲玲 <zhanglingling@Macbook-Pro--M2.local>"
+    }
+  }
+}
