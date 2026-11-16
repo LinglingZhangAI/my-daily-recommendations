@@ -1,0 +1,21 @@
+assets/index-D-6xbiVq.js
+  s_5fc91b53828f59::t_17af64370178e0 9,17,25,33,37-38,40,110,115,175,190-191,202
+index.html
+  s_5fc91b53828f59::t_993ab50de679f2 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3b90bc93bbd217a361f729552b4e421ace8a40bb",
+  "prompts": {},
+  "sessions": {
+    "s_5fc91b53828f59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e21a-5bca-76c2-a26b-b2f7db2c91cd",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "张玲玲 <zhanglingling@Macbook-Pro--M2.local>"
+    }
+  }
+}
